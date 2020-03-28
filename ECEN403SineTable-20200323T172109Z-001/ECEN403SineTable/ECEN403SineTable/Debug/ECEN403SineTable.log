@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\andrew nguyen\source\repos\ecen403sinetable\ecen403sinetable\source.cpp(26): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\andrew nguyen\source\repos\ecen403sinetable\ecen403sinetable\source.cpp(27): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\andrew nguyen\source\repos\ecen403sinetable\ecen403sinetable\source.cpp(74): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\andrew nguyen\source\repos\ecen403sinetable\ecen403sinetable\source.cpp(82): warning C4018: '<=': signed/unsigned mismatch
+  ECEN403SineTable.vcxproj -> C:\Users\Andrew Nguyen\source\repos\ECEN403SineTable\Debug\ECEN403SineTable.exe
+  ECEN403SineTable.vcxproj -> C:\Users\Andrew Nguyen\source\repos\ECEN403SineTable\Debug\ECEN403SineTable.pdb (Partial PDB)
