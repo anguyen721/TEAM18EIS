@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../XADC_new.srcs/sources_1/ip/xadc_wiz_0/xadc_wiz_0_sim_netlist.v" \
+"../../../../XADC_new.srcs/sources_1/new/xadc_test.v" \
+"../../../../XADC_new.srcs/sim_1/new/xadc_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

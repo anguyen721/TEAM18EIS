@@ -1,0 +1,19 @@
+Vivado Simulator 2019.2
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2019.2/bin/unwrapped/win64.o/xelab.exe -wto ace3e90ddcfa49868be946a4f03037a9 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip -L xpm --snapshot adctest_tb_behav xil_defaultlib.adctest_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 1 for port 'dwe_in' [C:/Users/Andrew Nguyen/XADC_new/XADC_new.srcs/sources_1/new/xadc_test.v:20]
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 16 for port 'di_in' [C:/Users/Andrew Nguyen/XADC_new/XADC_new.srcs/sources_1/new/xadc_test.v:22]
+WARNING: [VRFC 10-5021] port 'vp_in' is not connected on this instance [C:/Users/Andrew Nguyen/XADC_new/XADC_new.srcs/sources_1/new/xadc_test.v:17]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module unisims_ver.XADC(INIT_41=16'b010000110101111...
+Compiling module xil_defaultlib.xadc_wiz_0
+Compiling module xil_defaultlib.xadc_test
+Compiling module xil_defaultlib.adctest_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot adctest_tb_behav

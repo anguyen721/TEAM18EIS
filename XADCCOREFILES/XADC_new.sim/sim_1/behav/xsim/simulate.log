@@ -1,0 +1,307 @@
+Vivado Simulator 2019.2
+Time resolution is 1 ps
+WARNING: file design.txt could not be opened
+ *** Warning: The analog data file design.txt for XADC instance adctest_tb.uut.myxadc.inst was not found. Use the SIM_MONITOR_FILE parameter to specify the analog data file name or use the default name: design.txt.
+
+dout is xxxx
+
+dout is 0000
+
+Voltage is   0
+dout is 0001
+
+Voltage is   0
+dout is 0002
+
+Voltage is   0
+dout is 0003
+
+Voltage is   0
+dout is 0004
+
+Voltage is   0
+dout is 0005
+
+Voltage is   0
+dout is 0006
+
+Voltage is   0
+dout is 0007
+
+Voltage is   0
+dout is 0008
+
+Voltage is   0
+dout is 0009
+
+Voltage is   0
+dout is 000a
+
+Voltage is   0
+dout is 000b
+
+Voltage is   0
+dout is 000c
+
+Voltage is   0
+dout is 000d
+
+Voltage is   0
+dout is 000e
+
+Voltage is   0
+dout is 000f
+
+Voltage is   0
+dout is 0010
+
+Voltage is   0
+dout is 0011
+
+Voltage is   0
+dout is 0012
+
+Voltage is   0
+dout is 0013
+
+Voltage is   0
+dout is 0014
+
+Voltage is   0
+dout is 0015
+
+Voltage is   0
+dout is 0016
+
+Voltage is   0
+dout is 0017
+
+Voltage is   0
+dout is 0018
+
+Voltage is   0
+dout is 0019
+
+Voltage is   0
+dout is 001a
+
+Voltage is   0
+dout is 001b
+
+Voltage is   0
+dout is 001c
+
+Voltage is   0
+dout is 001d
+
+Voltage is   0
+dout is 001e
+
+Voltage is   0
+dout is 001f
+
+Voltage is   0
+dout is 0020
+
+Voltage is   0
+dout is 0021
+
+Voltage is   0
+dout is 0022
+
+Voltage is   0
+dout is 0023
+
+Voltage is   0
+dout is 0024
+
+Voltage is   0
+dout is 0025
+
+Voltage is   0
+dout is 0026
+
+Voltage is   0
+dout is 0027
+
+Voltage is   0
+dout is 0028
+
+Voltage is   0
+dout is 0029
+
+Voltage is   0
+dout is 002a
+
+Voltage is   0
+dout is 002b
+
+Voltage is   0
+dout is 002c
+
+Voltage is   0
+dout is 002d
+
+Voltage is   0
+dout is 002e
+
+Voltage is   0
+dout is 002f
+
+Voltage is   0
+dout is 0030
+
+Voltage is   0
+dout is 0031
+
+Voltage is   0
+dout is 0032
+
+Voltage is   0
+dout is 0033
+
+Voltage is   0
+dout is 0034
+
+Voltage is   0
+dout is 0035
+
+Voltage is   0
+dout is 0036
+
+Voltage is   0
+dout is 0037
+
+Voltage is   0
+dout is 0038
+
+Voltage is   0
+dout is 0039
+
+Voltage is   0
+dout is 003a
+
+Voltage is   0
+dout is 003b
+
+Voltage is   0
+dout is 003c
+
+Voltage is   0
+dout is 003d
+
+Voltage is   0
+dout is 003e
+
+Voltage is   0
+dout is 003f
+
+Voltage is   0
+dout is 0040
+
+Voltage is   0
+dout is 0041
+
+Voltage is   0
+dout is 0042
+
+Voltage is   0
+dout is 0043
+
+Voltage is   0
+dout is 0044
+
+Voltage is   0
+dout is 0045
+
+Voltage is   0
+dout is 0046
+
+Voltage is   0
+dout is 0047
+
+Voltage is   0
+dout is 0048
+
+Voltage is   0
+dout is 0049
+
+Voltage is   0
+dout is 004a
+
+Voltage is   0
+dout is 004b
+
+Voltage is   0
+dout is 004c
+
+Voltage is   0
+dout is 004d
+
+Voltage is   0
+dout is 004e
+
+Voltage is   0
+dout is 004f
+
+Voltage is   0
+dout is 0050
+
+Voltage is   0
+dout is 0051
+
+Voltage is   0
+dout is 0052
+
+Voltage is   0
+dout is 0053
+
+Voltage is   0
+dout is 0054
+
+Voltage is   0
+dout is 0055
+
+Voltage is   0
+dout is 0056
+
+Voltage is   0
+dout is 0057
+
+Voltage is   0
+dout is 0058
+
+Voltage is   0
+dout is 0059
+
+Voltage is   0
+dout is 005a
+
+Voltage is   0
+dout is 005b
+
+Voltage is   0
+dout is 005c
+
+Voltage is   0
+dout is 005d
+
+Voltage is   0
+dout is 005e
+
+Voltage is   0
+dout is 005f
+
+Voltage is   0
+dout is 0060
+
+Voltage is   0
+dout is 0061
+
+Voltage is   0
+dout is 0062
+
+Voltage is   0
+dout is 0063
+
+Voltage is   0

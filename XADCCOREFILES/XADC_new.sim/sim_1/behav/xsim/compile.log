@@ -1,0 +1,7 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Andrew Nguyen/XADC_new/XADC_new.srcs/sources_1/ip/xadc_wiz_0/xadc_wiz_0_sim_netlist.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module xadc_wiz_0
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Andrew Nguyen/XADC_new/XADC_new.srcs/sources_1/new/xadc_test.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module xadc_test
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Andrew Nguyen/XADC_new/XADC_new.srcs/sim_1/new/xadc_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module adctest_tb
