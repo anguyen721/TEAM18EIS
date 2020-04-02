@@ -1,0 +1,1 @@
+﻿C:\Users\Andrew Nguyen\Documents\fftw-3.3.5-dll64\libfftw3-3.exp : fatal error LNK1112: module machine type 'x86' conflicts with target machine type 'x64'
